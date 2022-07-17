@@ -1,1 +1,13 @@
 Chap11_GitPushAutomatique Xavki
+
+
+
+
+git config --global user.email "limam.med.said@gmail.com"
+git config --global user.name "limammedsaid"
+
+#compilation
+javac Main.java
+
+#Lancement Run 
+java Main 
